@@ -1,0 +1,31 @@
+/* Footer */
+/*doc Styles pour les ID footers avec de l'ombre sur les textes */
+#footer {
+  text-shadow: 0.55rem 0.55rem #FFFFFF;
+}
+
+/*doc Styles pour les classes form_footers dans l'ID footer avec un margin et de l'ombre sur les textes  */
+#footer .form__footer {
+  margin: 1rem;
+  text-shadow: 0.55rem 0.55rem #15FFF5;
+}
+
+/*doc Styles pour les classes cgv__footer dans l'ID footer avec un margin et de l'ombre sur les textes  */
+#footer .cgv__footer {
+  margin: 0.5rem;
+  text-shadow: 0.55rem 0.55rem #15FFF5;
+}
+
+/*doc Styles pour les classes button dans cgv__footer qui sont dans l'ID footer avec un margin et de l'ombre sur les textes  */
+
+#footer .cgv__footer .button {
+  margin: 1rem;
+  padding: 1rem;
+  font-size: 1.5rem;
+}
+
+/*doc Styles pour les classes button dans cgu__footer qui sont dans l'ID footer avec un margin et de l'ombre sur les textes  */
+#footer .cgu__footer { 
+  margin: 0.5rem;
+  text-shadow: 0.55rem 0.55rem #15FFF5;
+}
